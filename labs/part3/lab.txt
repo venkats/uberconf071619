@@ -1,0 +1,1 @@
+Use functional style to multiply two square matrices in a way that the given code works as expected.

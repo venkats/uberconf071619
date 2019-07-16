@@ -14,30 +14,30 @@ Part 0: What's Kotlin?:
 
 Part 1: Writing Functions:
 ✓Defining variables
--type inference
--Prefer val or var
--Writing functions
--Single Expression Functions
--Multiline functions
--passing parameters
--nullable types
--safe navigation and Elvis operator
--when expression and statement
--lab
+✓type inference
+✓Prefer val or var
+✓Writing functions
+✓Single Expression Functions
+✓Multiline functions
+✓passing parameters
+✓nullable types
+✓safe navigation and Elvis operator
+✓when expression and statement
+✓lab
 
 Part 2: OO Programming:
--Creating a class
--Defining a constructor
- -val, var, vs. private field
--Creating a method
--Defining properties
--getters
--setters
--private setters
--Companion objects
--"static" methods
--operator overloading
--lab
+✓Creating a class
+✓Defining a constructor
+ ✓val, var, vs. private field
+✓Creating a method
+✓Defining properties
+✓getters
+✓setters
+✓private setters
+✓Companion objects
+✓"static" methods
+✓operator overloading
+✓lab
 -inheritance
 -delegation
  -lazy

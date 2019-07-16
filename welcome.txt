@@ -1,0 +1,7 @@
+This repository contains all the code examples and lab solutions written during the "Programming in Kotlin" workshop offered at UberConf, on July 16, 2019.
+
+Thank you for attending.
+
+Venkat Subramaniam
+venkats@agiledeveloper.com
+@venkat_s

@@ -1,0 +1,74 @@
+Programming in Kotlin
+Venkat Subramaniam
+venkats@agiledeveloper.com
+@venkat_s
+
+Access:
+URL: https://github.com/venkats/uberconf071619
+
+Part 0: What's Kotlin?:
+-Styles of programming
+-Running as a script
+-Compiling
+-lab
+
+Part 1: Writing Functions:
+-Defining variables
+-Prefer val or var
+-Writing functions
+-Single Expression Functions
+-Multiline functions
+-passing parameters
+-nullable types
+-safe navigation and Elvis operator
+-when expression and statement
+-lab
+
+Part 2: OO Programming:
+-Creating a class
+-Defining a constructor
+ -val, var, vs. private field
+-Creating a method
+-Defining properties
+-getters
+-setters
+-private setters
+-Companion objects
+-"static" methods
+-operator overloading
+-lab
+-inheritance
+-delegation
+ -lazy
+ -observable
+-lab
+
+Part 3: Functional Programming:
+-higher order functions
+-lambda expressions
+-structure of a lambda
+-filter, map, reduce
+-eager vs. lazy evaluation
+-sequences
+-lab
+
+Part 4: Creating DSLs:
+-Domain Specific Languages
+-Fluency in Kotlin
+-; is optional
+-. and () are optional with infix
+-extension functions
+-lambda as last parameter
+-implicit receivers
+-2 days ago
+-lab
+
+Part 5: Coroutines:
+-parallel vs. concurrent
+-Running a sequential task
+-Running concurrently
+-Running in parallel
+-applying coroutines
+-lab
+
+Summary:

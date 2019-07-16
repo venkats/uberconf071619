@@ -1,0 +1,13 @@
+Write a guessing game using Kotlin, as a script. When run, the program will guess a value between 0 and 100. Then it will ask the user to enter a number.
+If the user enters a number larger than the guess, it prints "Aim low" else it prints "Aim high." When the user guesses the number, the program prints "You got it in ?? attempts!" where ?? is replaced with the number of attempts.
+
+Write the program without using any var, val only. Also, minimize the use of val as much as possible.
+
+Hints:
+readLines() to read from console
+toInt() to convert to Int
+?. - save navigation
+?: Elvis
+when {
+  ...
+}

@@ -1,0 +1,13 @@
+Write a program that will get the content size from different URLs. Write the program to run sequentially first. Then write it, using coroutines, so it performs the fetch asynchronously and in parallel. In addition to reporting the size, report the time taken for each run.
+
+Sample output from the program:
+
+http://www.google.com response size is 11443
+http://www.yahoo.com response size is 8
+http://www.bing.com response size is 117190
+Time taken for sequential run 975 milliseconds
+
+http://www.google.com 11429
+http://www.yahoo.com 8
+http://www.bing.com 117190
+Time taken for sequential run 769 milliseconds

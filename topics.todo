@@ -55,22 +55,22 @@ Part 3: Functional Programming:
 ✓lab
 
 Part 4: Creating DSLs:
--Domain Specific Languages
--Fluency in Kotlin
--; is optional
--. and () are optional with infix
--extension functions
--lambda as last parameter
--implicit receivers
--2 days ago
--lab
+✓Domain Specific Languages
+✓Fluency in Kotlin
+✓; is optional
+✓. and () are optional with infix
+✓extension functions
+✓lambda as last parameter
+✓implicit receivers
+✓2 days ago
+✓lab
 
 Part 5: Coroutines:
--parallel vs. concurrent
--Running a sequential task
--Running concurrently
--Running in parallel
--applying coroutines
--lab
+✓parallel vs. concurrent
+✓Running a sequential task
+✓Running concurrently
+✓Running in parallel
+✓applying coroutines
+✓lab
 
 Summary:

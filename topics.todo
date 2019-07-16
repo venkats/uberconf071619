@@ -37,6 +37,7 @@ Part 2: OO Programming:
 ✓Companion objects
 ✓"static" methods
 ✓operator overloading
+-data classes
 ✓lab
 -inheritance
 -delegation

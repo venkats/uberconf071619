@@ -1,0 +1,9 @@
+Write a Kotlin script that prints the following:
+
+This program is running on Kotlin version .... and Java version ...
+
+
+Hints:
+kotlinc-jvm -script program.kts
+
+To find the version of kotlin, use KotlinVersion.CURRENT and to find Java version use System.getProperty("java.version")

@@ -4,7 +4,7 @@ If the user enters a number larger than the guess, it prints "Aim low" else it p
 Write the program without using any var, val only. Also, minimize the use of val as much as possible.
 
 Hints:
-readLines() to read from console
+readLine() to read from console
 toInt() to convert to Int
 ?. - save navigation
 ?: Elvis

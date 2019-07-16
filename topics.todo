@@ -13,7 +13,8 @@ Part 0: What's Kotlin?:
 ✓lab
 
 Part 1: Writing Functions:
--Defining variables
+✓Defining variables
+-type inference
 -Prefer val or var
 -Writing functions
 -Single Expression Functions

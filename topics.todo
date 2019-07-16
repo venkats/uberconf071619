@@ -37,22 +37,22 @@ Part 2: OO Programming:
 ✓Companion objects
 ✓"static" methods
 ✓operator overloading
--data classes
+✓data classes
 ✓lab
--inheritance
--delegation
- -lazy
- -observable
--lab
+✓inheritance
+✓delegation
+ ✓lazy
+ ✓observable
+✓lab
 
 Part 3: Functional Programming:
--higher order functions
--lambda expressions
--structure of a lambda
--filter, map, reduce
--eager vs. lazy evaluation
--sequences
--lab
+✓higher order functions
+✓lambda expressions
+✓structure of a lambda
+✓filter, map, reduce
+✓eager vs. lazy evaluation
+✓sequences
+✓lab
 
 Part 4: Creating DSLs:
 -Domain Specific Languages

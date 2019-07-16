@@ -1,0 +1,10 @@
+Let's write code to make this work:
+
+Truck operate {        
+  it turns left
+  it drives straight
+  it turns right
+}
+
+The output when the program exits the }:
+Truck turned left went straight turned right
